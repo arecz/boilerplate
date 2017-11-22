@@ -1,0 +1,9 @@
+h1 {
+    min-width: 100%;
+    text-align: center;
+}
+
+h1::before {
+    font-size: .8rem;
+    content: "sass compilation working - from _base.scss / check console for ts test";
+}
