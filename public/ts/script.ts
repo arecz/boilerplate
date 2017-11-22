@@ -1,1 +1,1 @@
-console.log("Typescript working");
+(<HTMLBodyElement>document.getElementById('test')).textContent = '&& Typescript compilation working';
